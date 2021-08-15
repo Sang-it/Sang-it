@@ -1,5 +1,5 @@
 <p align="center">
-You can find me here: 
+You can find me here : 
 </br>
 <a href="https://www.linkedin.com/in/sang-it/" targer="_blank">Linkedin</a>
 </p>
